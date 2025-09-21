@@ -1,4 +1,4 @@
-#Tonight's Sky — Astronomy CLI
+Tonight's Sky — Astronomy CLI
 
 A Python command-line tool that tells you **what planets, the Moon, and bright stars are visible** from a given place and time.  
 It prints altitudes, azimuths, compass directions, and constellations so you know where to look in the sky.
